@@ -1,0 +1,10 @@
+# arquivos e pastas a serem ignorados pelo Git
+
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Adicione a linha abaixo para ignorar o package-lock.json
+
+package-lock.json
